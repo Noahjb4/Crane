@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{6151F427-5DDC-F13E-B134-5DF1569D3AAF}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/_Project/Scripts/MagnetPickUp.cs">
+    <Files>
+      <File FileName="Assets/_Project/Scripts/MagnetPickUp.cs" Line="26" Column="9" />
+      <File FileName="Assets/_Project/Scripts/MagnetDropOff.cs" Line="22" Column="9" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Crane Project" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="_Project" expanded="True">
+                <Node name="Scripts" expanded="True">
+                  <Node name="MagnetPickUp.cs" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="56dfe498-18e3-497f-aa08-da5a67e58e4a" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
